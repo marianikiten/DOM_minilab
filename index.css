@@ -1,0 +1,17 @@
+.main-title {
+    font-size: 4rem;
+    font-weight: 900;
+}
+.hide-button {
+    border: 2px solid pink;
+    background-color: azure;
+    color: black;
+    padding: 10px;
+
+}
+.unhide-button {
+    border: 2px solid blue;
+    background-color: yellow;
+    color: black;
+    padding: 10px;
+}
